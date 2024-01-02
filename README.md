@@ -18,9 +18,9 @@
 </p>
 
 <h3 align="left">My Skills:</h3>
-```md
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,docker,fastapi,firebase,flask,flutter,gcp,git,githubactions,java,js,linux,mongodb,nodejs,py,redis,vue&theme=light)](https://skillicons.dev)
-```
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,docker,fastapi,firebase,flask,flutter,gcp,git,githubactions,java,js,linux,mongodb,nodejs,py,redis,vue&theme=light&perline=10)](https://skillicons.dev)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeh-sudo&show_icons=true&locale=en&layout=compact" alt="yeh-sudo" /></p>
 
