@@ -11,17 +11,13 @@
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/yeh-profile/).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yeh-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeh-profile" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/handsomeyeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="handsomeyeh" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">My Skills:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,dart,docker,fastapi,firebase,flask,flutter,gcp,git,githubactions,java,js,linux,mongodb,nodejs,py,redis,vue&theme=light&perline=10)](https://skillicons.dev)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeh-sudo&show_icons=true&locale=en&layout=compact" alt="yeh-sudo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeh-sudo&show_icons=true&locale=en" alt="yeh-sudo" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeh-sudo&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeh-sudo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
