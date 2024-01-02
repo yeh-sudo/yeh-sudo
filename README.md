@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeh-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="yeh-sudo" /> </p>
 
-- 🌱 I’m currently learning **web development and app development**
+- 🌱 I’m currently learning **web development and app development**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/yeh-sudo?tab=repositories](https://github.com/yeh-sudo?tab=repositories)
 
 - 📫 How to reach me **yehchanshen@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ug8amHYH3UxCc_r4fGvQ9wzPXPY78Zwv/view?usp=sharing](https://drive.google.com/file/d/1ug8amHYH3UxCc_r4fGvQ9wzPXPY78Zwv/view?usp=sharing)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/yeh-profile/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
